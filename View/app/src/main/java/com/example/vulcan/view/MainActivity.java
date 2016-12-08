@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-class MainActivity extends AppCompatActivity
+public class MainActivity extends AppCompatActivity
 {
     Student student;
     List<String> mGrade;
