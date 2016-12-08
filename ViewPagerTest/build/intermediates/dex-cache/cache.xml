@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_079d721d5d70a73bebc641598f51dca3e1b7324f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_a80d093549aeb1d114153d200eacd8ede1ff8123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9dd32d72d5197e476b62364b0ed65ad038a02d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_cb9f10c5533379245337dfe8872d5f2a8987218e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_5a698f538f348b616a4f6c664dae892b113f1bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fc50a669f4fc2182b35f0dbdcabdbc7764fd3de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_80094952e064a52115bc110c9e72a3419f349f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_947a8c3270708340e31e665f50360d394c0b98d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_61fff1c1bf81ea37a9bd706537bf6332ac70ced7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_3ad2cb03e8bfb02c6c6f549d45ab26a8bbf61777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d1cbfa410bf4d94ecb1709b37fec9c7842150604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_d3d6ecc5e4d8372f9fc036e5219314f09f68412c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_820b1f1dc3bacb92bf8494d3ae0ce16d59f9a02a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_8915c180cf1385b0ba5a5842c6927bb5b688d800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_89d6adf1c29147bfdae5f063c3bee5183217a4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_3063e60da3e64cc8aaab7db36784cddc06d62252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_9ddfadfa1527fc5e594de42c63f7f4bd89db6484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\VULCAN\Desktop\ViewPagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_370c3c3a8bd57f2cdf554fdf27403a7d98b27a14.jar" />
+    </item>
+
+</items>
